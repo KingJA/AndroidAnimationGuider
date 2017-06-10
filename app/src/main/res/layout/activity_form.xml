@@ -6,7 +6,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#aaa"
-    android:animateLayoutChanges="true">
+    android:animateLayoutChanges="true"
+    tools:context=".FormActivity">
 
     <android.support.v7.widget.CardView
         android:id="@+id/form_btn"
